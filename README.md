@@ -6,3 +6,15 @@ Used Python2.0 due to incostensies in the pygame library with Python3
 Click the image below to see a demo.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/eBd87IjYvOo/0.jpg)](http://www.youtube.com/watch?v=eBd87IjYvOo "Video Title")
+
+Controls
+
+R = Restart song from beginning
+Spacebar = Pause song
+Left Key = skip back 40 notes
+Right Key = skip forward 40 notes
+Up Key = Speed up song
+Down Key = Slow down song
+L = Loop the song after it ends (Toggle)
+
+
