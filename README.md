@@ -3,8 +3,6 @@ This little app allows you to see the notes on a midi file usually meant for pia
 
 Used Python2.0 due to incostensies in the pygame library with Python3
 
+Click the image below to see a demo.
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/eBd87IjYvOo/0.jpg)](http://www.youtube.com/watch?v=eBd87IjYvOo "Video Title")
 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=eBd87IjYvOo?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
-with a **youtube** video embedded
