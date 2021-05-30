@@ -10,11 +10,16 @@ Click the image below to see a demo.
 Controls
 
 R = Restart song from beginning
-Spacebar = Pause song
-Left Key = skip back 40 notes
-Right Key = skip forward 40 notes
-Up Key = Speed up song
-Down Key = Slow down song
-L = Loop the song after it ends (Toggle)
 
+Spacebar = Pause song
+
+Left Key = skip back 40 notes
+
+Right Key = skip forward 40 notes
+
+Up Key = Speed up song
+
+Down Key = Slow down song
+
+L = Loop the song after it ends (Toggle)
 
